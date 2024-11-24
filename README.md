@@ -1,4 +1,4 @@
-<center><a href="https://essoussi-zineb.netlify.app/" target="_blank"><img src="https://github.com/DesignToWebsite/DesignToWebsite/assets/74991230/24ae64ba-c42d-473c-9f57-6c6da1b5f1d7" height="80px" width="80px" alt="Twitter" align="right"></a><a href="https://www.linkedin.com/in/zineb-essoussi/" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-512.png" height="80px" width="80px" alt="Twitter"></a></center>
+<center><a  href="https://essoussi-zineb.netlify.app/" target="_blank"><img src="https://github.com/DesignToWebsite/DesignToWebsite/assets/74991230/24ae64ba-c42d-473c-9f57-6c6da1b5f1d7" height="80px" width="80px" alt="Twitter" align="right"></a><a href="https://www.linkedin.com/in/zineb-essoussi/" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-512.png" height="80px" width="80px" alt="Twitter"></a></center>
 
 
 ### Hi there 👋
@@ -14,7 +14,6 @@ Currently learning RPA, my enthusiasm and willingness to explore new solutions i
 - 👯 I’m looking to collaborate with other content creators
 - 💬 Ask me about anything in tech I bet I will answer 😂
 - ⚡ Fun fact: I love swimming, sport, and traveling
-- 📝[Resume](https://zinebessoussi.netlify.app/assets/Automation_cv-Y2oLgayj.pdf)
 <br>
 
 ## Connect with me 
@@ -25,7 +24,6 @@ Currently learning RPA, my enthusiasm and willingness to explore new solutions i
 [![fiverr](https://user-images.githubusercontent.com/74991230/174493137-b28c8106-2aa0-4003-b7b6-3728d7ac1acb.png)](https://fr.fiverr.com/zineb2003?up_rollout=true)
 [![youtube](https://user-images.githubusercontent.com/74991230/174493132-d415b4fe-9e88-4ce1-8aa7-300639f1dcd3.png)
 ](https://www.youtube.com/channel/UCgxzCZU9lkcoygJ7IYkIIYg)
-
 <br>
 
 ## Languages and Tools
