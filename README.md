@@ -17,16 +17,6 @@ Currently learning RPA, my enthusiasm and willingness to explore new solutions i
 - 📝[Resume](https://zinebessoussi.netlify.app/assets/Automation_cv-Y2oLgayj.pdf)
 <br>
 
-## Stats summary📈
-
-<p align="center">
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=ZinebEsso&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&layout=compact&hide_border=true" alt="ZinebEsso" /> 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=ZinebEsso&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&hide_border=true" alt="ZinebEsso" />
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=larymak&theme=highcontrast&hide_border=true" alt="ZinebEsso" />
-</p>
-
-
-
 ## Connect with me 
 
 [![twitter](https://user-images.githubusercontent.com/74991230/174493087-8a472f80-db6a-4acc-adf0-9c412ac89b24.png)](https://twitter.com/ZinebEsso)
